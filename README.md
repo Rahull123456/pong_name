@@ -1,1 +1,1 @@
-# pong_name
+# pong_game
